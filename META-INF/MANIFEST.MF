@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_152 (Oracle Corporation)
+
+Name: icon.xpm
+SHA-256-Digest: 1Yc0R4mxLv+znd3ffyAPXfMLK17jGGfMa+SOCUZN5kQ=
+
+Name: GitEye
+SHA-256-Digest: 1jvm+zOkN/jAaeF6isfDn3Vha7htD72m9Uo0hWHChx8=
+

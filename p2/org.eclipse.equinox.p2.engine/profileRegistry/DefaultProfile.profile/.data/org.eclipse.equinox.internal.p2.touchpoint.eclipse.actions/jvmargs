@@ -1,0 +1,4 @@
+#Mon Dec 17 16:02:51 UTC 2018
+-Xms=128m
+-XX\:MaxPermSize\==256m
+-Xmx=512m
